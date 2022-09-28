@@ -17,4 +17,7 @@ This repo contains all foreign dependencies, which are used by the HanamiAI-Dash
 - source: https://cdn.rawgit.com/dcodeIO/protobuf.js/6.11.3/dist/protobuf.min.js
 - related repository: https://github.com/protobufjs/protobuf.js/
 
+`bootstrap_icons`
+- source-site: https://icons.getbootstrap.com/
+
 The files in this repository have no changes compared to the originals. It is basically only a mirror. This is primary to make the HanamiAI also completely without internet-access executable, if necessary.
