@@ -1,8 +1,8 @@
-# Hanami-AI-Dashboard-Dependencies
+# Hanami-Dashboard-Dependencies
 
-This repo contains all foreign dependencies, which are used by Dashboard of Hanami-AI (https://github.com/kitsudaiki/Hanami-AI)
+This repo contains all foreign dependencies, which are used by Dashboard of Hanami (https://github.com/kitsudaiki/Hanami)
 
-**IMPORTANT**: The files in this repository have no changes compared to the originals. It is basically only a mirror. This is primary to make the Hanami-AI also completely without internet-access executable, if necessary.
+**IMPORTANT**: The files in this repository have no changes compared to the originals. It is basically only a mirror. This is primary to make the Hanami also completely without internet-access executable, if necessary.
 
 
 `d3.v6.min.js`
